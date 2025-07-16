@@ -60,26 +60,26 @@ export default function Footer() {
               </Link>
               <p className="text-gray-300 mb-6 leading-relaxed">
                 Transforming businesses with professional 360° virtual tours. 
-                From Google Street View integration to enterprise 3DVista solutions, 
-                we help you showcase your space and engage customers like never before.
+                From high-qualityGoogle Street View, Maps and Search integration to enterprise 3DVista solutions, 
+                we help you showcase your space, instill confidence and engage customers like never before.
               </p>
               
               {/* Contact Info */}
               <div className="space-y-2 text-sm text-gray-400">
                 <div className="flex items-center">
                   <span className="mr-2">📍</span>
-                  <span>123 Business Ave, Suite 456, City, ST 12345</span>
+                  <span>Mt. Vernon House, Second Floor, Belfast, BT364BA</span>
                 </div>
                 <div className="flex items-center">
                   <span className="mr-2">📞</span>
-                  <a href="tel:+1234567890" className="hover:text-blue-400 transition-colors">
-                    (123) 456-7890
+                  <a href="tel:+447960044486" className="hover:text-blue-400 transition-colors">
+                    +44 7960 044 486
                   </a>
                 </div>
                 <div className="flex items-center">
                   <span className="mr-2">📧</span>
-                  <a href="mailto:hello@360spaces.com" className="hover:text-blue-400 transition-colors">
-                    hello@360spaces.com
+                  <a href="mailto:info@360spaces.co.uk" className="hover:text-blue-400 transition-colors">
+                    info@360spaces.co.uk
                   </a>
                 </div>
               </div>
@@ -121,7 +121,7 @@ export default function Footer() {
           <div className="max-w-md">
             <h3 className="text-lg font-semibold mb-4">Stay Updated</h3>
             <p className="text-gray-400 text-sm mb-4">
-              Get the latest virtual tour trends, case studies, and industry insights.
+              Receive updates, offers, trends, case studies, and industry insights.
             </p>
             <div className="flex">
               <input
@@ -173,9 +173,9 @@ export default function Footer() {
         >
           <p className="text-gray-500 text-xs mb-4">Certified & Licensed</p>
           <div className="flex justify-center space-x-8 text-gray-600 text-sm">
-            <span>Google Street View Trusted</span>
-            <span>3DVista Certified Partner</span>
-            <span>FAA Licensed Drone Pilots</span>
+            <span>Google Street View Trusted Partner</span>
+            <span>3DVista Professional Tour Creator</span>
+            <span>CAA Licensed Drone Pilot</span>
             <span>Insured & Bonded</span>
           </div>
         </motion.div>
