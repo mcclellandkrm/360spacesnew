@@ -7,7 +7,7 @@ const testimonials = [
     name: 'Sarah Chen',
     company: 'The Golden Spoon Restaurant',
     industry: 'Hospitality',
-    quote: 'The 360° tour has transformed how customers discover our restaurant. Bookings increased by 40% after implementing the virtual tour on our website and Google listing.',
+    quote: 'The 360° tour has transformed how customers find and discover our restaurant. Bookings increased by 40% after implementing the virtual tour on our website and Google listing.',
     rating: 5,
     image: '🍽️'
   },
